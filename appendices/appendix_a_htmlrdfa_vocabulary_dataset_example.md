@@ -71,6 +71,6 @@
   </table>
 </div>
 </body>
-</html>```
-
+</html>
+```
 Figure 10\. Example of vocabulary as RDFa/HTML (index.html hosted at ```http://example.com/datasets/cmi5```)
