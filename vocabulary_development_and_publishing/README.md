@@ -1,0 +1,3 @@
+# Vocabulary Development and Publishing {#vocabulary-development-and-publishing}
+
+Developing and publishing vocabularies for xAPI require several important steps and considerations. There are many different options for the design of the IRIs and determining the location for the physical files that should be made available when the IRI is dereferenced. Vocabulary authors must also understand the purpose of supporting both human and machine readable versions--and the file types that are used for vocabulary datasets. This section of the document will explain these concepts and provide the recommended practices for xAPI vocabulary development and publishing.

@@ -1,0 +1,13 @@
+## Recommended Properties {#recommended-properties}
+
+| **Property Name** | **Description** | **rdf:type** | **rdfs:subPropertyOf** | **rdfs:domain** | **rdfs:range** |
+| --- | --- | --- | --- | --- | --- |
+| xapi:closelyRelatedNaturalLanguageTerm | A property used to connect the xAPI term to a specific sense, or meaning, in natural language that is very closely related. The sense will be identified with Wordnet, a carefully constructed ontology that aids in word sense disambiguation, which has been used with many different languages. | [owl:ObjectProperty](http://www.w3.org/2002/07/owl#ObjectProperty) | [skos:relatedMatch](http://www.w3.org/2004/02/skos/core#relatedMatch) | skos:Concept | [wordnet:Synset](http://wordnet-rdf.princeton.edu/ontology#Synset) |
+| skos:definition | A property borrowed from SKOS that is used to provide a plain text definition or description for a resource. | [owl:AnnotationProperty](http://www.w3.org/2002/07/owl#AnnotationProperty) | [skos:note](http://www.w3.org/2004/02/skos/core#note) |  |  |
+| skos:inScheme | A property borrowed from SKOS that relates a concept (for example a verb) to a concept scheme in which it is included. Verbs and Activity Types should be in a concept scheme (vocabulary) and are connected using this property. | [owl:ObjectProperty](http://www.w3.org/2002/07/owl#ObjectProperty) |  |  | [skos:ConceptScheme](http://www.w3.org/2004/02/skos/core#ConceptScheme) |
+| skos:prefLabel | A property borrowed from SKOS that is used to provide the preferred lexical label for a resource, in a given language. | [owl:AnnotationProperty](http://www.w3.org/2002/07/owl#AnnotationProperty) | [rdfs:label](http://www.w3.org/2000/01/rdf-schema#label) |  |  |
+| xapi:referencedBy | A property used to connects an xapi:Verb not directly maintained by the controlled vocabulary author to a vocabulary that is reusing and referencing the term. | [owl:ObjectProperty](http://www.w3.org/2002/07/owl#ObjectProperty) | [skos:inScheme](http://www.w3.org/2004/02/skos/core#inScheme) |  | [skos:ConceptScheme](http://www.w3.org/2004/02/skos/core#ConceptScheme) |
+| skos:scopeNote | A note that helps to clarify the meaning and/or the use of a concept. | [owl:AnnotationProperty](http://www.w3.org/2002/07/owl#AnnotationProperty) | [skos:note](http://www.w3.org/2004/02/skos/core#note) |  |  |
+| xapi:thirdPartyLabel | A property used by people who did not create the original verb, but would like to offer an alternative label for it. | [owl:AnnotationProperty](http://www.w3.org/2002/07/owl#AnnotationProperty) | [skos:altLabel](http://www.w3.org/2004/02/skos/core#altLabel) |  | Inherited from skos:altLabel |
+
+Figure 7\. Table of recommended properties for xAPI Vocabulary datasets.

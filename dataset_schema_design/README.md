@@ -1,0 +1,3 @@
+# Dataset Schema Design {#dataset-schema-design}
+
+The xAPI Vocabulary Dataset Schema was designed as an OWL 2 RDF-based ontology, and was produced by the xAPI Vocabulary Working Group to complement the core xAPI specification. Rather than create new classes and properties for xAPI vocabularies, the xAPI Vocabulary Dataset Schema incorporates existing ontologies and schemas that already provide capabilities for expressing relationships between the vocabulary terms and associating terms within a published vocabulary dataset. The next section will explain more specifically why SKOS and others were used.
