@@ -30,4 +30,4 @@ This is a draft of the Companion Specification for xAPI Vocabularies. This versi
 
 | Document | Location |
 | --- | --- |
-| xAPI Vocabulary Primer | [Google Drive](https://docs.google.com/document/d/1mQDMOussZ7iKkW5jk1sM8KrOOzjsUYVUmSSXyEhk8v8/edit#) |
+| xAPI Vocabulary Primer | [Github](https://) |
