@@ -12,7 +12,7 @@ DRAFT v.1.0 PROPOSAL
 
 Table of Contents
 
-1.  [Status of this Document](export/status_of_this_document.md)
+1.  [Status of this Document](status_of_this_document.md)
 2.  [License](export/license.md)
 3.  [Introduction](export/introduction.md)
 4.  [Background and Motivation](export/background_and_motivation.md)
