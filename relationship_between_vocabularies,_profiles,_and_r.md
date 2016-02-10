@@ -16,5 +16,4 @@ While this specification directly addresses vocabularies, it is also important t
 
 | ![xapi-profiles.png](assets/xapi-profiles.png) |
 | --- |
-
 Figure 3\. Relationship between vocabularies, profiles, and recipes.
