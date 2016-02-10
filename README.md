@@ -1,6 +1,5 @@
 # Companion Specification for xAPI Vocabularies {#companion-specification-for-xapi-vocabularies}
 
-Companion Specification for Experience API (xAPI) Vocabularies
 
 ![logo](assets/logo.png)
 
