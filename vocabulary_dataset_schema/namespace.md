@@ -18,5 +18,4 @@ The namespace prefixes and their corresponding namespace IRIs currently used in 
 | Wordnet | wordnet | http://wordnet-rdf.princeton.edu/ontology# | for linking to synsets that can aid in word sense disambiguation and multilingual translations |
 | Experience API (xAPI) | xapi | https://w3id.org/xapi/ontology# | to define xapi-specific classes and properties |
 | XML Schema | xsd | http://www.w3.org/2001/XMLSchema# | for when using xsd data types such as date strings and language values |
-
-Figure 4\. Table of select namespaces used for xAPI Vocabulary datasets.
+*Figure 4\. Table of select namespaces used for xAPI Vocabulary datasets.*
