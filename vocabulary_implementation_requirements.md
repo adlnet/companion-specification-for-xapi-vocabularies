@@ -16,5 +16,4 @@ The following vocabulary requirements complement those in the core xAPI specific
 | 10 | Anyone publishing a vocabulary dataset **SHOULD** announce the availability of the vocabulary and submit it to xAPI community resources (e.g., registries, repositories). | **SHOULD** |
 | 11 | Repositories, registries, or any other systems that publish xAPI vocabulary datasets expressed as RDF **SHOULD** provide a public SPARQL endpoint for querying that data. | **SHOULD** |
 | 12 | Since vocabularies can change, a system aggregating vocabularies **SHOULD** have a process to keep their versions up to date. | **SHOULD** |
-
-Figure 9\. Table of xAPI vocabulary requirements.
+*Figure 9\. Table of xAPI vocabulary requirements.*
