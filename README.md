@@ -4,6 +4,7 @@
 ![logo](assets/logo.png)
 
 December 2015
+This document is available to read as a Gitbook: https://www.gitbook.com/book/adl/companion-specification-for-xapi-vocabularies/
 
 DRAFT v.1.0 PROPOSAL
 
