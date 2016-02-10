@@ -9,5 +9,4 @@
 | xapi:referencedBy | A property used to connects an xapi:Verb not directly maintained by the controlled vocabulary author to a vocabulary that is reusing and referencing the term. | [owl:ObjectProperty](http://www.w3.org/2002/07/owl#ObjectProperty) | [skos:inScheme](http://www.w3.org/2004/02/skos/core#inScheme) |  | [skos:ConceptScheme](http://www.w3.org/2004/02/skos/core#ConceptScheme) |
 | skos:scopeNote | A note that helps to clarify the meaning and/or the use of a concept. | [owl:AnnotationProperty](http://www.w3.org/2002/07/owl#AnnotationProperty) | [skos:note](http://www.w3.org/2004/02/skos/core#note) |  |  |
 | xapi:thirdPartyLabel | A property used by people who did not create the original verb, but would like to offer an alternative label for it. | [owl:AnnotationProperty](http://www.w3.org/2002/07/owl#AnnotationProperty) | [skos:altLabel](http://www.w3.org/2004/02/skos/core#altLabel) |  | Inherited from skos:altLabel |
-
-Figure 7\. Table of recommended properties for xAPI Vocabulary datasets.
+*Figure 7\. Table of recommended properties for xAPI Vocabulary datasets.*
