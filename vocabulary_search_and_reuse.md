@@ -2,7 +2,7 @@
 
 Discoverability and search capabilities are needed to improve reuse among vocabulary authors and prevent duplication of terms with the same or similar meaning. CoPs and vocabulary authors are expected to look for existing vocabulary terms and IRIs for Verbs and Activity Types when possible (instead of building new ones from scratch). However, searching for xAPI Verbs and Activity Types have been limited and have not supported a decentralized approach until now. Embracing LD principles for publishing and exposing xAPI vocabulary datasets as RDF will allow them to be more searchable and discoverable, improving opportunities for reuse.
 
-When IRIs resolve to RDF representations of vocabulary datasets, they can be imported into any RDF-based “triplestore,” such as the vocabulary server hosted by ADL, **_http://xapi.vocab.pub_**_._****A triplestore, or RDF, store is a purpose-built database for the storage and retrieval of triples through semantic queries. Vocabulary datasets represented as RDF can be semantically queried using SPARQL.
+When IRIs resolve to RDF representations of vocabulary datasets, they can be imported into any RDF-based “triplestore,” such as the vocabulary server hosted by ADL, **_http://xapi.vocab.pub_**. A triplestore, or RDF, store is a purpose-built database for the storage and retrieval of triples through semantic queries. Vocabulary datasets represented as RDF can be semantically queried using SPARQL.
 
 ### SPARQL {#sparql}
 
