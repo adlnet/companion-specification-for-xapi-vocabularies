@@ -14,6 +14,5 @@ While this specification directly addresses vocabularies, it is also important t
 
 3.  **Recipe:** Recipes refer to a way of expressing how a common type of learning activity could be syntactically represented in the form of a sample xAPI Statement. A recipe is intended to be reusable by other developers or CoPs. It can specify the statement structure, objects and properties, the required values associated with each object and property, and the object identifiers. Recipes are not required to represented as RDF, but may include human readable examples and descriptions at the IRI location. An example of a Recipe is available here: [http://xapi.trainingevidencesystems.com/recipes/attendance/0_0_1/#simple](http://xapi.trainingevidencesystems.com/recipes/attendance/0_0_1/#simple).
 
-| ![xapi-profiles.png](assets/xapi-profiles.png) |
-| --- |
-Figure 3\. Relationship between vocabularies, profiles, and recipes.
+![xapi-profiles.png](assets/xapi-profiles.png)
+*Figure 3\. Relationship between vocabularies, profiles, and recipes.*
