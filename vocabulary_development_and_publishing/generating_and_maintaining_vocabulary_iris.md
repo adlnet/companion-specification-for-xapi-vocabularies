@@ -1,6 +1,6 @@
 ## Generating and Maintaining Vocabulary IRIs {#generating-and-maintaining-vocabulary-iris}
 
-In order to support xAPI IRI stability and curation, ADL will initially support requests for creating new persistent IRIs. If ADL were no longer operational or if governance of the xAPI changed to another organization, the w3id.org IRIs can be easily udpated via [GitHub](https://github.com/perma-id/w3id.org) by anyone in the xAPI community or transitioned to any newly appointed governing organization. The following high-level process outlines the steps involved for minting a new IRI.
+In order to support xAPI IRI stability and curation, ADL will initially support requests for creating new persistent IRIs. If ADL were no longer operational or if governance of the xAPI changed to another organization, the w3id.org IRIs can be easily udpated via [***GitHub***](https://github.com/perma-id/w3id.org) by anyone in the xAPI community or transitioned to any newly appointed governing organization. The following high-level process outlines the steps involved for minting a new IRI.
 
 1.  Verify that an existing vocabulary term IRI does not already exist by searching the xAPI community resources such as the Registry, **_http://registry.experienceapi.com_** and the xAPI Vocabulary Publishing Server (under development), **_http://xapi.vocab.pub_**_._
 2.  Create each vocabulary dataset IRI and vocabulary term IRIs using the [Recommended IRI Design Practices](iri_design_and_persistence.md#recommended-iri-design-practices) provided in the previous section of this document.
