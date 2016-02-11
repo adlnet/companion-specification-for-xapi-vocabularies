@@ -4,8 +4,8 @@ This document provides a basic introduction regarding the application of semanti
 
 Properties and classes are **bolded**. 
 
-Code examples are in  ```red text, light gray background```.
+Code examples have a  ```light gray background```.
 
-Vocabularies and vocabulary term identifiers are all ***```red bold italicized``` ***when described in this document’s text. 
+Vocabularies and vocabulary term identifiers are  ***```italicized  with gray background``` ***when described in this document’s text. 
 
 Internal hyperlinks are [blue text](#) and external links are [***bold blue italicized***](#). 
