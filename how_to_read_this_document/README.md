@@ -6,6 +6,6 @@ Properties and classes are **bolded**.
 
 Code examples have a  ```light gray background or box```.
 
-Vocabularies and vocabulary term identifiers are  ```***bold italicized with gray background***``` when described in this document’s text. 
+Vocabularies and vocabulary term identifiers are  ***```bold italicized with gray background```*** when described in this document’s text. 
 
 Internal hyperlinks are [blue text](#) and external links are [***bold blue italicized***](#). 
