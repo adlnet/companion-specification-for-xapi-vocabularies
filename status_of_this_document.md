@@ -1,6 +1,5 @@
 # Status of this Document {#status-of-this-document}
 
-This is a draft of the Companion Specification for xAPI Vocabularies. This version currently exists as a Google Doc, but a future version may be in a different format such as Github markdown. The document and review history is detailed below.
 
 **Owner**
 
