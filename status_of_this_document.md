@@ -24,6 +24,7 @@
 | 1.0 | 1/29/2016 | Leslie Spotswood | ADL | fixed minor grammar mistakes & typos |
 | 1.0 | 1/29/2016 | Dean Marvin | ADL | improved readability suggestions |
 | 1.0 | 2/5/2016 | Russell Duhon | Saltbox | improved readability & corrections |
+| 1.0 | 2/24/2016 | Ingo Dahn |  | suggested changes to process steps |
 
 **Related documents**
 
