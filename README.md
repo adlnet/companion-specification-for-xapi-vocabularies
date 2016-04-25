@@ -4,7 +4,7 @@
 ![logo](assets/logo.png)
 
 
-DRAFT v.1.0 PROPOSAL
+Version 1.0 
 
 The table of content is accessible in summary.md on Github.
 
