@@ -6,7 +6,7 @@
 
 Version 1.0 
 
-The table of content is accessible in summary.md on Github.
+The table of content is accessible in [summary.md on Github](https://github.com/adlnet/companion-specification-for-xapi-vocabularies/blob/master/SUMMARY.md).
 
 GitBook URL: https://adl.gitbooks.io/companion-specification-for-xapi-vocabularies/content/
 
