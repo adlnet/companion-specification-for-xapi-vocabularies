@@ -30,4 +30,4 @@
 
 | Document | Location |
 | --- | --- |
-| xAPI Vocabulary Primer | [Github](https://adl.gitbooks.io/experience-xapi-vocabulary-primer/content/) |
+| [xAPI Vocabulary Primer](https://github.com/adlnet/experience-xapi-vocabulary-primer/blob/master/SUMMARY.md) | Github |
