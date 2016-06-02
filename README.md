@@ -4,6 +4,10 @@ This document is ancillary and intended to serve as a companion ([as described h
   
 > You can read this companion spec at https://adl.gitbooks.io/companion-specification-for-xapi-vocabularies/content/
 
+# Contributing to the Project
+
+Send questions or feedback to: [xapi-vocabulary@adlnet.gov](mailto:xapi-vocabulary@adlnet.gov)
+
 # License
 
 This work is free and made available under the Creative Commons Attribution-Share Alike 4.0 International (CC BY-SA 4.0) license. Visit [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/) for more information on the details of this license. In summary, the following terms and conditions apply:
@@ -28,8 +32,3 @@ This work is free and made available under the Creative Commons Attribution-Shar
 ![Creative Commons License](assets/creative_commons_license.png)
 
 Companion Specification for xAPI Vocabularies by [Advanced Distributed Learning (ADL) Initiative](http://adlnet.gov/) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
-
-
-(send questions or feedback to: [xapi-vocabulary@adlnet.gov](mailto:xapi-vocabulary@adlnet.gov))
-
-
