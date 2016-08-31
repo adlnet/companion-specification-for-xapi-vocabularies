@@ -1,6 +1,6 @@
-# Summary
+# Table of Contents
 
-* [Companion Specification for xAPI Vocabularies](README.md)
+* [README](README.md)
 * [Status of this Document](status_of_this_document.md)
 * [License](license.md)
 * [Introduction](introduction.md)
