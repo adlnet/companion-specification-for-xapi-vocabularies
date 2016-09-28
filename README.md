@@ -2,7 +2,7 @@
 
 This document is ancillary and intended to serve as a companion ([as described here](https://github.com/adlnet/xAPI-Spec/blob/master/xAPI.md#verb)) to the core xAPI specification. This companion specification will provide the basic building blocks for describing xAPI vocabularies as linked datasets on the web. This draft will initially address the xAPI vocabulary requirements for Verbs and Activity Types with the expectation that semantic practices will be identified and added (as needed) for future xAPI vocabulary elements.
   
-> You can read this companion spec at https://adl.gitbooks.io/companion-specification-for-xapi-vocabularies/content/
+> An accessible, printer-ready and reader-friendly version of this companion document is also available as a gitbook here: https://adl.gitbooks.io/companion-specification-for-xapi-vocabularies/content/
 
 # Contributing to the Project
 
