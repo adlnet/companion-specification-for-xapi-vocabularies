@@ -1,11 +1,18 @@
-# Status of this Document {#status-of-this-document}
+# NOTE: THIS SPEC HAS BEEN SUPERSEDED BY THE [xAPI PROFILE SPECIFICATION](https://github.com/adlnet/xapi-profiles). {#status-of-this-document}
 
+# VISIT: [https://github.com/adlnet/xapi-profiles](https://github.com/adlnet/xapi-profiles)
+
+# THIS REPO IS AVAILABLE FOR ARCHIVAL PURPOSES ONLY.
+
+# 
+
+# Status of this Document
 
 **Owner**
 
 | Name | Website | Email |
 | --- | --- | --- |
-| xAPI Vocabulary Working Group | https://www.w3.org/community/xapivocabulary | xapi-vocabulary@adlnet.gov |
+| xAPI Vocabulary Working Group | [https://www.w3.org/community/xapivocabulary](https://www.w3.org/community/xapivocabulary) | xapi-vocabulary@adlnet.gov |
 
 **Revision history**
 
@@ -31,3 +38,6 @@
 | Document | Location |
 | --- | --- |
 | [xAPI Vocabulary Primer](https://github.com/adlnet/experience-xapi-vocabulary-primer/blob/master/SUMMARY.md) | Github |
+
+
+

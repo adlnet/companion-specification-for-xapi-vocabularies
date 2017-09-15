@@ -1,24 +1,14 @@
 # 
 
-# 
-
-# 
-
-
-
 # NOTE: THIS SPEC HAS BEEN SUPERSEDED BY THE [xAPI PROFILE SPECIFICATION](https://github.com/adlnet/xapi-profiles).
 
 # VISIT: [https://github.com/adlnet/xapi-profiles](https://github.com/adlnet/xapi-profiles)
 
 # THIS REPO IS AVAILABLE FOR ARCHIVAL PURPOSES ONLY.
 
+# 
 
-
-
-
-
-
-
+# 
 
 # Companion Specification for xAPI Vocabularies
 
